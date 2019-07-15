@@ -3,9 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.container > p{
-    color:whitesmoke;
-    text-decoration: underline;
-    font-family: strong modern;
-    float:center;
+h1 ,p{
+    color:white;
 }
+
