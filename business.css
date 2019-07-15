@@ -6,4 +6,8 @@ body{
 h1 ,p{
     color:white;
 }
-
+table{
+    text-align: center;
+    color: cadetblue;
+    float: right;
+}
